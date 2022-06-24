@@ -12,5 +12,6 @@ def float_point(x):
 a = x / 10 ** float_point(x)
 print(a)
 print("x=", a, "*10**", float_point(x))
+print("adw")
 
 
