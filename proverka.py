@@ -14,4 +14,4 @@ print(a)
 print("x=", a, "*10**", float_point(x))
 print("adw")
 
-
+print("vkad")
